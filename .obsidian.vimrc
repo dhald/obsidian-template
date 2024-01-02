@@ -25,6 +25,9 @@ exmap buffer_close obcommand workspace:close
 
 exmap find_file obcommand switcher:open 
 
+exmap global_search obcommand global-search:open 
+exmap file_search obcommand editor:open-search
+
 nmap <Space>fs :file_save
 nmap <Space>fr :file_rename
 nmap <Space>ff :find_file
@@ -49,4 +52,5 @@ nmap <Space>ci :create_inbox_item
 nmap <Space>cp :create_project
 nmap <Space>cw :create_waiting_task
 
-
+nmap <Space>sf :global_search
+nmap <Space>ss :file_search

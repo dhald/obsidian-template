@@ -25,8 +25,8 @@ exmap buffer_close obcommand workspace:close
 
 exmap find_file obcommand switcher:open 
 
-exmap global_search obcommand global-search:open 
-exmap file_search obcommand editor:open-search
+exmap global_search obcommand omnisearch:show-modal 
+exmap file_search obcommand omnisearch:show-modal-infile
 
 nmap <Space>fs :file_save
 nmap <Space>fr :file_rename

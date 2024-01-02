@@ -7,8 +7,8 @@ const incomplete_tasks = dv.pages("-#inbox").file.flatMap(f => f.tasks).where(t 
 const next_actions = incomplete_tasks.where(t => !is_waiting_task(t));
 const waiting_tasks = incomplete_tasks.where(t => is_waiting_task(t));
 
-const waiting_tasks_past_deadline = waiting_tasks.where(t => has_deadline(t) && (t.deadline <= now));
-const other_waiting_tasks = waiting_tasks.where(t => !has_deadline(t) || (t.deadline > now));
+const waiting_tasks_past_deadline = waiting_tasks.where(t => has_deadline(t) && (dv.luxon.DateTime.fromISO(t.deadline) <= now));
+const other_waiting_tasks = waiting_tasks.where(t => !has_deadline(t) || (dv.luxon.DateTime.fromISO(t.deadline) > now));
 
 const projects = dv.pages('"Projects" and #project').where(p => !p.completed);
 

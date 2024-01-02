@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Daily/2024-01-02.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,10 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f06887be4400cfc4",
+  "active": "47ec545521089c58",
   "lastOpenFiles": [
-    "Projects/Daniel's test project.md",
+    "Scripts/process.js",
+    "Scripts/home.js",
     "Notes/Daily/2024-01-02.md",
+    "Projects/Daniel's test project.md",
     "Untitled.md",
     "Projects/Partially complete project.md",
     "Projects/thing.md",
@@ -162,7 +162,6 @@
     "Scripts/view/home.js",
     "Scripts/view/process/partially_complete_tasks.js",
     "Scripts/view/process/partially_complete_projects.js",
-    "partially_complete_projects.js",
     "Welcome.md"
   ]
 }

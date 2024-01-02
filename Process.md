@@ -1,3 +1,3 @@
 ```dataviewjs
-dv.view("Scripts/view/process")
+dv.view("Scripts/process")
 ```

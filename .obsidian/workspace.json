@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e471f3904542c047",
+        "id": "f60f53540b1478c8",
         "type": "tabs",
         "children": [
           {
-            "id": "a3809fb4d824c191",
+            "id": "47ec545521089c58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/thing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "975a7813e4be8f64",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9cdd3d2103d2379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Project without next action.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/thing.md"
+                "file": "Notes/Daily/2024-01-02.md"
               }
             }
           }
@@ -164,17 +140,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3809fb4d824c191",
+  "active": "f06887be4400cfc4",
   "lastOpenFiles": [
-    "Projects/Project without next action.md",
+    "Projects/Daniel's test project.md",
+    "Notes/Daily/2024-01-02.md",
+    "Untitled.md",
+    "Projects/Partially complete project.md",
     "Projects/thing.md",
+    "Projects/Project without next action.md",
     "Projects/Project1.md",
     "Inbox.md",
     "Home.md",
     "Notes/Daily",
     "Process.md",
     "Templates/Project.md",
-    "Projects/Partially complete project.md",
     "Templates/project",
     "Templates",
     "Scripts/view/Templates",

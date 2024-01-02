@@ -10,7 +10,6 @@ exmap create_waiting_task obcommand quickadd:choice:8aae7307-dfc8-4572-8b41-1d25
 exmap create_project obcommand quickadd:choice:b9ab3a9a-90d1-43be-b659-6347cd136d63
 exmap create_note obcommand file-explorer:new-file
 
-
 exmap window_close obcommand workspace:close-tab-group
 exmap window_reopen obcommand workspace:undo-close-pane
 

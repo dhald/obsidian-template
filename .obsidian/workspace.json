@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "2c1049abec6a5c14",
+    "type": "split",
+    "children": [
+      {
+        "id": "e471f3904542c047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3809fb4d824c191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/thing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "975a7813e4be8f64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9cdd3d2103d2379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Project without next action.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "538d63065e2f5ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c89ed3f6834d06a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06887be4400cfc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e243fc5ed1357bdc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#project",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27a6562a3325d1f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e326f4f45e88454d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ac66b66d5d0a959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b41d9c89791e864",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/thing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "015ced64f82b4a83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/thing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e08ba21585658c7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7dd8e62ff7b75b5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/thing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a3809fb4d824c191",
+  "lastOpenFiles": [
+    "Projects/Project without next action.md",
+    "Projects/thing.md",
+    "Projects/Project1.md",
+    "Inbox.md",
+    "Home.md",
+    "Notes/Daily",
+    "Process.md",
+    "Templates/Project.md",
+    "Projects/Partially complete project.md",
+    "Templates/project",
+    "Templates",
+    "Scripts/view/Templates",
+    "Scripts/view/Tempaltes",
+    "Scripts/view/process.js",
+    "Scripts/view/home.js",
+    "Scripts/view/process/partially_complete_tasks.js",
+    "Scripts/view/process/partially_complete_projects.js",
+    "partially_complete_projects.js",
+    "Welcome.md"
+  ]
+}
